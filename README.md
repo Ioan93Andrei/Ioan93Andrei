@@ -4,9 +4,11 @@ My name is Ioan Andrei and I'm currently refreshing my JS and CSS skills so I ca
 I've been away from programming for a long time, but I'm finally ready to get back in the game 😁🙌
 I like making websites, especially the frontend side because the browsers are hilariously bad at following even the simplest commands 🤦‍♂️ but the results are usually pretty funny 🤣
 
-Not sure what else to write here so here's a gif for you 
+Not sure what else to write here so... 
 
-![image](https://user-images.githubusercontent.com/35468420/169726647-eb6938de-3719-4034-a84a-42cb2f0839b7.png)
+![image](https://user-images.githubusercontent.com/35468420/169726773-b9d42564-5d50-4596-a3c5-41e40406d8cb.png)
+
+
 
 
 <!--
