@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to the pity party 🎉🎉🎉
 
 My name is Ioan Andrei and I'm currently refreshing my JS and CSS skills so I can continue with React and Node.js
 I've been away from programming for a long time, but I'm finally ready to get back in the game 😁🙌
