@@ -1,6 +1,6 @@
-### Welcome to the pity party 🎉🎉🎉
+### Welcome to the party 🎉🎉🎉
 
-My name is Ioan Andrei and I'm currently refreshing my JS and CSS skills so I can continue with React and Node.js
+My name is Ioan Andrei and I'm currently refreshing my Python and Django
 I've been away from programming for a long time, but I'm finally ready to get back in the game 😁🙌
 I like making websites, especially the frontend side because the browsers are hilariously bad at following even the simplest commands 🤦‍♂️ but the results are usually pretty funny 🤣
 
