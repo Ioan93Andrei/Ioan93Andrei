@@ -2,7 +2,7 @@
 
 My name is Ioan Andrei and I'm currently refreshing my Python and Django
 I've been away from programming for a long time, but I'm finally ready to get back in the game 😁🙌
-I like making websites, especially the frontend side because the browsers are hilariously bad at following even the simplest commands 🤦‍♂️ but the results are usually pretty funny 🤣
+I like making websites, especially the backend part because apparently I'm much better at getting things to work than making them look pretty.
 
 Not sure what else to write here so... 
 
