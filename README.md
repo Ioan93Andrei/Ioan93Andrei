@@ -1,6 +1,6 @@
 ### Welcome to the party 🎉🎉🎉
 
-My name is Ioan Andrei and I'm currently refreshing my Python and Django
+My name is Ioan Andrei and I'm currently refreshing my Python and Django, and dipping my fingers in C#.
 I've been away from programming for a long time, but I'm finally ready to get back in the game 😁🙌
 I like making websites, especially the backend part because apparently I'm much better at getting things to work than making them look pretty.
 
